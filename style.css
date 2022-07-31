@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    background-color: #2b2922;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.list{
+    list-style-type: none;
+}
+.list-item{
+    display: inline-block;
+    color:  #88867f;
+    margin: 20px;
+    font-family: Raleway;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    left: 170px;
+}
+
+span{
+    color: #ffffff;
+    font-weight: 550;
+}
+
+.logo{
+    height: 50px;
+    position: relative;
+    top: 30px;
+    left: -10px;
+}
+
+.button-started{
+    background: transparent;
+    color: #9c8b35;
+    border: 2px solid #daa520;
+    padding: 15px 40px;
+    font-size: 20px;
+    font-weight: 550;
+    font-family: Raleway;
+    border-color: #9c8b35;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+}
+
+.justice{
+    display: flex;
+    flex-direction: row;
+}
+
+.judge-heading{
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 80px;
+    width: 700px;
+    position: relative;
+    top: 120px;
+    left: 95px;
+}
+
+.justice p{
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 25px;
+    width: 500px;
+    position: relative;
+    top: 160px;
+    left: 190px;
+}
+
+.judge-img{
+    background-image: url(./assets/pexels-ekaterina-bolovtsova-6077326.jpg);
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    bottom: 0;
+}
+
+button,li {
+    cursor: pointer;
+  }
