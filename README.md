@@ -4,7 +4,8 @@
 This one is a Law home page which is created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
 ## Screenshot
 
-![Project 3 Screenshot](./Project%203.png)
+
+![Project 3](https://user-images.githubusercontent.com/109405477/182110274-949bb7fe-35dd-40a0-81cf-d8d2519721c0.png)
 
 
 ## Deployed Link
